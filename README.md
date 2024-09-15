@@ -1,7 +1,5 @@
 ## Hi there, I'm Akshay 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on foodies.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Data Science.
@@ -11,3 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: they/them.
 - ⚡ Fun fact: Nothing.
 
+mai rutheya manavanga
